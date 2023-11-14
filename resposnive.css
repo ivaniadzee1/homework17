@@ -1,0 +1,43 @@
+@media(width > 1440px){
+    body{
+        background-image: url(./image/Rectangle\ \(1\).svg);
+        background-size: cover;
+        height: 100vh;
+        font-family: 'Kumbh Sans';
+    }
+    .white{
+        display: flex;
+        flex-direction: row;
+        width: 920px;
+        height: 540px;
+        flex-shrink: 0;
+        border-radius: 23px;
+        background: #FFF;
+        margin-top: 50px;
+        margin-left: -150px;
+        box-shadow: 0px 50px 50px -20px rgba(53, 18, 122, 0.50);
+    }
+    .imgbox{
+        background-image: url(./image/bgimg.svg);
+        background-repeat: no-repeat;
+        background-position: left -39px top 139px;
+        width: 552px;
+        height: 630px;
+        z-index: 100;
+    }
+    .img1, .img2{
+        display: none;
+    }
+}
+.orange{
+    width: 90px;
+    height: 106px;
+}
+.orange1{
+    margin-top: 297px;
+    margin-left: -325px;
+}
+.wb2{
+    margin-top: 10px;
+    margin-left: -393px
+}
