@@ -42,6 +42,9 @@ body{
     
 }
 .wb2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
     margin-left: -293px;
     margin-top: 184px;
 }
@@ -50,8 +53,9 @@ body{
     flex-direction: column;
     align-items: start;
     text-align: start;
-    margin-top: 38px;
-    row-gap: 10px;
+    margin-top: 26px;
+    row-gap: -7px;
+    margin-left: -153px;
 }
 h1{
     color: #1E1F36;
@@ -280,4 +284,11 @@ padding-bottom: -200px;
 }
 .kiko{
     margin-left: -35px;
+}
+.orange{
+    display: none;
+}
+.faq{
+        margin-top: -62px;
+    margin-left: -1px;
 }
