@@ -35,4 +35,12 @@
     margin-top: 10px;
     margin-left: -393px
 }
+.orange{
+    display: flex;
+    background-image: url(./image/box.svg);
+    margin-top: 275px;
+    margin-left: -542px;
+    width: 190px;
+    height: 180px;
+}
 }
